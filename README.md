@@ -1,16 +1,50 @@
-# tasarim_calismasi
+# Flutter Pizza UI
 
-A new Flutter project.
+This project is my **first Flutter UI design** built during my learning journey.  
+It showcases a simple pizza ordering screen with **multi-language support** (Turkish & English).  
+
+## Features
+- Simple UI design with Flutter
+- Works on both iOS & Android
+- Multi-language support (`app_tr.arb`, `app_en.arb`)
+- Custom fonts and images
+- Modern Material Design style
+
+## Screenshots
+
+| English | Turkish |
+|---------|---------|
+| <img src="screenshots/pizza-app-en.png" width="250"/> | <img src="screenshots/pizza-app-tr.png" width="250"/> |
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Make sure you have Flutter installed on your machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Clone the repository
+``` bash
+git clone https://github.com/yasemin-kir/flutter-first-app
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Navigate into the project directory
+```bash
+cd flutter-first-app
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Install dependencies
+``` bash
+flutter pub get
+```
+
+### Run the app
+``` bash
+flutter run
+```
+
+## Built With
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and share.
